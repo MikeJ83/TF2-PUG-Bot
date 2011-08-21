@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\testSite3" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery-ui.min.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery-1.4.4-vsdoc.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Global.asax" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/jquery-ui.css" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="bin/TF2Pug.dll" publishTime="07/23/2011 18:05:19" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.debug.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.debug.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/MicrosoftAjax.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery-1.4.4.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="bin/TF2Pug.pdb" publishTime="07/23/2011 18:05:19" />
+    <file relUrl="Content/themes/base/images/ui-icons_222222_256x240.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery-1.4.4.min.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery.unobtrusive-ajax.min.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-icons_454545_256x240.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/MicrosoftMvcValidation.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/MicrosoftMvcAjax.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery.validate.unobtrusive.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="bin/WebBot.dll" publishTime="07/23/2011 18:05:20" />
+    <file relUrl="Content/themes/base/images/ui-icons_cd0a0a_256x240.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Views/Shared/Error.aspx" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="bin/SourceRconLib.dll" publishTime="05/15/2011 22:48:36" />
+    <file relUrl="Scripts/jquery.unobtrusive-ajax.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-icons_888888_256x240.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/Site.css" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/MicrosoftAjax.debug.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery-ui.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Scripts/jquery.validate.unobtrusive.min.js" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Content/themes/base/images/ui-icons_2e83ff_256x240.png" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="Views/Web.config" publishTime="07/23/2011 17:45:26" />
+    <file relUrl="bin/WebBot.pdb" publishTime="07/23/2011 18:05:20" />
+    <file relUrl="Web.config" publishTime="07/23/2011 17:59:40" />
+  </publishProfile>
+</publishData>
